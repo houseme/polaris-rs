@@ -1,12 +1,12 @@
 [package]
 name = "polaris-rs"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["houseme <housemecn@gmail.com>"]
 license = "MIT OR Apache-2.0"
 description = "Lightweight Rust SDK used as Proxyless Service Governance Solution."
-homepage = "https://github.com/houseme/polaris-rust"
-repository = "https://github.com/houseme/polaris-rust.git"
+homepage = "https://github.com/houseme/polaris-rs"
+repository = "https://github.com/houseme/polaris-rs.git"
 readme = "README.md"
 keywords = ["polaris", "solution", "governance", "server", "proxyless"]
 categories = ["config", "asynchronous", "development-tools"]

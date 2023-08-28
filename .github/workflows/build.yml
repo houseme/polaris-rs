@@ -83,7 +83,7 @@ jobs:
 #    steps:
 #      - name: Checkout code
 #        # Reference your environment variables
-#        uses: actions/checkout@v3.6.0
+#        uses: actions/checkout@v3
 #      - name: Install rust
 #        uses: actions-rs/toolchain@v1
 #      - name: Run cargo login
